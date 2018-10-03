@@ -1,1 +1,6 @@
 This is a test file to start learning git and github
+
+Don't forget to make a key so that you don't have to re-enter password each time.
+
+git --all
+git commit -m "whatever you did"
