@@ -4,3 +4,8 @@ Don't forget to make a key so that you don't have to re-enter password each time
 
 git add --all
 git commit -m "whatever you did"
+
+Don't forget the 3rd step. This is going to save it to github
+
+git push origina master
+
