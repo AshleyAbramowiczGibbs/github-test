@@ -13,3 +13,4 @@ git push origin master
 
 You may have to add steps to save an ssh-key. This is all in cheat sheet in the resources slack channel
 
+(ssh -key allow you avoid putting password into terminal each time)
